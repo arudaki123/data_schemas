@@ -1,0 +1,32 @@
+{
+  "id": "20260904T121712-374Z__medium__ios__bug__8d79778763f93ddc",
+  "receivedAt": "2026-09-04T12:17:12.374Z",
+  "requestId": "bb99a246-00d8-4df5-96e3-d01db50215ed",
+  "source": {
+    "userAgent": "vlis_cert/1 CFNetwork/3860.100.1 Darwin/25.5.0"
+  },
+  "report": {
+    "severity": "medium",
+    "category": "bug",
+    "message": "test",
+    "occurredAt": "2026-09-04T12:17:11.969Z",
+    "app": {
+      "version": "1.0.18"
+    },
+    "device": {
+      "platform": "ios",
+      "osVersion": "26.0.1",
+      "locale": "vi-VN",
+      "id": "54f3703a-e9f5-44c4-ba31-be42db1743b6"
+    },
+    "contact": {
+      "email": "test@gmail.com"
+    },
+    "context": {
+      "clientEventId": "bb99a246-00d8-4df5-96e3-d01db50215ed",
+      "kind": "user",
+      "user": "nan.tungta",
+      "freeDiskMB": 12762
+    }
+  }
+}
