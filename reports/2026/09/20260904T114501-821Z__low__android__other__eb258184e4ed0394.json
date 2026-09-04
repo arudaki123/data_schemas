@@ -1,0 +1,19 @@
+{
+  "id": "20260904T114501-821Z__low__android__other__eb258184e4ed0394",
+  "receivedAt": "2026-09-04T11:45:01.821Z",
+  "requestId": "vdata-retry",
+  "source": {
+    "userAgent": "curl/8.7.1"
+  },
+  "report": {
+    "severity": "low",
+    "category": "other",
+    "message": "kiem tra tich hop vData",
+    "app": {
+      "version": "1.1.21"
+    },
+    "device": {
+      "platform": "android"
+    }
+  }
+}
