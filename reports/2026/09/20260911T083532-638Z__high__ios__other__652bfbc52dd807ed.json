@@ -1,0 +1,32 @@
+{
+  "id": "20260911T083532-638Z__high__ios__other__652bfbc52dd807ed",
+  "receivedAt": "2026-09-11T08:35:32.638Z",
+  "requestId": "9783093e-a880-4e25-9f21-72612512a562",
+  "source": {
+    "userAgent": "vlis_cert/1 CFNetwork/1498.700.2 Darwin/23.6.0"
+  },
+  "report": {
+    "severity": "high",
+    "category": "other",
+    "message": "Nên có chức năng xuất danh sách thửa, tờ, số phát hành, file quét",
+    "occurredAt": "2026-09-11T08:35:31.853Z",
+    "app": {
+      "version": "1.0.20"
+    },
+    "device": {
+      "platform": "ios",
+      "osVersion": "17.6.1",
+      "locale": "vi-VN",
+      "id": "616d6ce5-70f2-4d3a-bb59-42240d3c4643"
+    },
+    "contact": {
+      "email": "quocthinhnguyen1994@gmail.com"
+    },
+    "context": {
+      "clientEventId": "9783093e-a880-4e25-9f21-72612512a562",
+      "kind": "user",
+      "user": "tanchau.thuthap",
+      "freeDiskMB": 1424
+    }
+  }
+}
